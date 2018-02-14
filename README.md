@@ -1,4 +1,4 @@
-# APROG-ISEP-2016_17dle
+# APROG-ISEP-2016_17
 Trabalhos relaizados na Unidade Curricular Algoritmia e Programação durante o ano letivo 2016/2017
 
 ### Professor Orientador ###
