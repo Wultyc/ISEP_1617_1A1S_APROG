@@ -1,5 +1,6 @@
 # APROG-ISEP-2016_17
 Trabalhos relaizados na Unidade Curricular Algoritmia e Programação durante o ano letivo 2016/2017
+O projeto consistia numa aplicação, em java procedimental, para o registo e analise da informação dos utentes de uma clínica.
 
 ### Professor Orientador ###
 Ana Almeida
